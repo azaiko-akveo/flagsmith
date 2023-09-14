@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.72.0](https://github.com/Flagsmith/flagsmith/compare/v2.71.0...v2.72.0) (2023-09-14)
+
+
+### Features
+
+* Add backoff to webhooks, and call multiple webhooks async ([#2559](https://github.com/Flagsmith/flagsmith/issues/2559)) ([fd0bdfc](https://github.com/Flagsmith/flagsmith/commit/fd0bdfc4b6691ae8e5712163a7b4c63679c85c83))
+* Realtime updates, defaultFlags, cacheControl and timeout config for Android ([#2757](https://github.com/Flagsmith/flagsmith/issues/2757)) ([54de331](https://github.com/Flagsmith/flagsmith/commit/54de331af199a898e7850eeac30aeb9ac41a4d58))
+
+
+### Bug Fixes
+
+* Feature id in mv-option request is undefined ([#2751](https://github.com/Flagsmith/flagsmith/issues/2751)) ([3c3b1d7](https://github.com/Flagsmith/flagsmith/commit/3c3b1d7af2e4b62f75979b8c8c2ea931f8736cbd))
+* **revert:** feat: Add backoff to webhooks, and call multiple webhooks async ([#2773](https://github.com/Flagsmith/flagsmith/issues/2773)) ([adbb010](https://github.com/Flagsmith/flagsmith/commit/adbb010d2b0ec992ba21c0e30d49b39657df435b))
+
 ## [2.71.0](https://github.com/Flagsmith/flagsmith/compare/v2.70.2...v2.71.0) (2023-09-11)
 
 
